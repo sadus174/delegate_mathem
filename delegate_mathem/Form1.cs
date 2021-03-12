@@ -28,17 +28,14 @@ namespace delegate_mathem
             {
                 return x + y;
             }
-
             public double vich(int x, int y)
             {
                 return x - y;
             }
-
             public double del(int x, int y)
             {
                 return x - y;
             }
-
             public double proizv(int x, int y)
             {
                 return x * y;
